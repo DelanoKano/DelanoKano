@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning ...<br>🎯 Goals: Make clean code.<br>🎲 Fun fact: Im a danser.</p>
+<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning ...<br>🎯 Goals: Make clean code.<br>🎲 Fun fact: Im a dancer.</p>
 
 ###
 
